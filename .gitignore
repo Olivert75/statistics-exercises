@@ -1,6 +1,7 @@
+.vscode/
 .DS_Store
 .ipynb_checkpoints/
 .ipynb_checkpointsenv.py
 env.py
-__pycache__/env.py
 __pycache__/
+pandas_assessment.ipynb
